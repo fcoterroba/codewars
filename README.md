@@ -10,3 +10,4 @@ feel free to add your solution if isn't added yet
 
 - [monday of C++ in fundamentals focus](https://github.com/fcoterroba/CodeWars/tree/main/CPP/)
 - [thursday of PHP in rank up focus](https://github.com/fcoterroba/CodeWars/tree/main/PHP/)
+- [friday of Python in rank up focus](https://github.com/fcoterroba/CodeWars/tree/main/Python/)
