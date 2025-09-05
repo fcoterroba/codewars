@@ -4,5 +4,6 @@ repo to save answers of the daily codewars kata i do
 
 ## index
 
-- wednesday -> [Rust](https://github.com/fcoterroba/codewars/tree/main/rust/)
-- thursday -> [PHP](https://github.com/fcoterroba/codewars/tree/main/php/)
+- wednesday -> [rust](https://github.com/fcoterroba/codewars/tree/main/rust/)
+- thursday -> [php](https://github.com/fcoterroba/codewars/tree/main/php/)
+- friday -> [python](https://github.com/fcoterroba/codewars/tree/main/python/)
