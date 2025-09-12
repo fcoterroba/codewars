@@ -8,3 +8,4 @@ repo to save the daily answers of my codewars katas
 - [tuesday of c#](https://github.com/fcoterroba/codewars/tree/main/cs/)
 - [wednesday of rust](https://github.com/fcoterroba/codewars/tree/main/rust/)
 - [thursday of php](https://github.com/fcoterroba/codewars/tree/main/php/)
+- [friday of python](https://github.com/fcoterroba/codewars/tree/main/python/)
