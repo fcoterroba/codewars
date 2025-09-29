@@ -6,7 +6,7 @@ i use c++, c# and rust in fundamentals' focus (as i'm learning currently learnin
 
 ## structure
 
-- monday of c++
+- [monday of c++](https://github.com/fcoterroba/codewars/tree/main/cpp/)
 - tuesday of c#
 - wednesday of rust
 - thursday of php
