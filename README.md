@@ -8,6 +8,6 @@ i use c++, c# and rust in fundamentals' focus (as i'm learning currently learnin
 
 - [monday of c++](https://github.com/fcoterroba/codewars/tree/main/cpp/)
 - [tuesday of c#](https://github.com/fcoterroba/codewars/tree/main/cs/)
-- wednesday of rust
+- [wednesday of rust](https://github.com/fcoterroba/codewars/tree/main/rs/)
 - thursday of php
 - friday of python
